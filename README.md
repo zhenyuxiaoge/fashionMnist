@@ -3,7 +3,7 @@
 一.分类 fashion mnist数据集
 使用cnn训练，预测准确率为91.65%。
 代码见cnn.py
-
+数据集介绍 https://github.com/zalandoresearch/fashion-mnist
 
 二.
 淘宝上有几亿的买家和千万级的商家，我们需要在每个月初给头部的商家（已知商家的名单）推荐一定数量的用户，便于商家有针对性的进行营销活动。
